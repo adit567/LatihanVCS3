@@ -10,4 +10,4 @@ Kelas:T1.A<br>
 
 * Download git terlebih dahulu dengan link berikut [click here](https://git-scm.com) <br>
 
-![git-scm.com](foto/Adit 7.png) <br>
+![git-scm.com](foto/Adit7.png) <br>
